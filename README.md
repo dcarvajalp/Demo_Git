@@ -6,3 +6,5 @@ Tout devrait bien se passer :
 * Fraises
 * Cerises
 * Citrons
+
+Et maintenant on modifie depuis GitHub
